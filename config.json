@@ -1,6 +1,6 @@
 {
   "prefix": "!",
-  "token": "OTQ0MTM0NTQ4Mzk5MjE0NjMy.Yg9L0Q.47xE5vLHazidR700Rg8tE20GwEQ",
+  "token": "",
   "mongooseConnectionString": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "activity": "Adding Roles",
   "status": "idle",
