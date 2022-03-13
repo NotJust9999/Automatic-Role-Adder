@@ -19,3 +19,9 @@
 ## 📝 Contributors
 - [✯ Just#0001] (https://github.com/NotJust9999)
 
+## How Does It Work
+
+#### It Requires Need Access Role To Get Access Add Role Id In `config.json`
+#### If Someone Dont Have The Need Access Role It Will Automatically Add It.
+#### Logs Are Used To Log Proofs.
+
