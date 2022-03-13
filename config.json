@@ -1,0 +1,27 @@
+{
+  "prefix": "!",
+  "token": "OTQ0MTM0NTQ4Mzk5MjE0NjMy.Yg9L0Q.47xE5vLHazidR700Rg8tE20GwEQ",
+  "mongooseConnectionString": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "activity": "Adding Roles",
+  "status": "idle",
+  "needaccessrole": "944108776003366932",
+  "codeaccessrole": "906603430519394305",
+  "proofchannel": "928607300359454740",
+  "logchannel": "945226630673104916",
+  "developers": ["862621966317912084", "862621966317912084"],
+
+  "color": {
+    "main"   : "#74ff89",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff"
+  }
+}
