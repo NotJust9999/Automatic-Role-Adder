@@ -8,6 +8,7 @@
 #### 2. Upload To Replit/Vps/Hosting You Use
 #### 3. Fill `config.json` 
 #### 4. Join `discord.gg/decoders` To Get Admin Key To Run.
+#### 5. Start With `npm start`
 
 ## ✅ Help And Support.
 > Note - You Will Only Get Support If You Join The Server
