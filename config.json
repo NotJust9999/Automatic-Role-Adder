@@ -4,11 +4,11 @@
   "mongooseConnectionString": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "activity": "Adding Roles",
   "status": "idle",
-  "needaccessrole": "944108776003366932",
-  "codeaccessrole": "906603430519394305",
-  "proofchannel": "928607300359454740",
-  "logchannel": "945226630673104916",
-  "developers": ["862621966317912084", "862621966317912084"],
+  "needaccessrole": "",
+  "codeaccessrole": "",
+  "proofchannel": "",
+  "logchannel": "",
+  "developers": ["", ""],
 
   "color": {
     "main"   : "#74ff89",
