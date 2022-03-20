@@ -26,3 +26,4 @@
 #### If Someone Dont Have The Need Access Role It Will Automatically Add It.
 #### Logs Are Used To Log Proofs.
 
+# Note - Delete `events/ready.js` If you're a replit user and delete `events/replitready.js` If you use visual studio code/some hosting
