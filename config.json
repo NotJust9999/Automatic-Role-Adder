@@ -4,6 +4,7 @@
   "mongooseConnectionString": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "activity": "Adding Roles",
   "status": "idle",
+  "adminKey": "",
   "needaccessrole": "",
   "codeaccessrole": "",
   "proofchannel": "",
