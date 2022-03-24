@@ -7,7 +7,7 @@
 #### 1. Fork The Repo Provided.
 #### 2. Upload To Replit/Vps/Hosting You Use
 #### 3. Fill `config.json` 
-#### 4. Join `discord.gg/decoders` And Open A Ticket From Channel `・〢support` To Get Admin Key To Run.
+#### 4. Join `discord.gg/decoders` And Open A Ticket From Channel `・〢support` To Get Admin Key To Run The Bot.
 #### 5. Start With `npm start`
 
 ## ✅ Help And Support.
