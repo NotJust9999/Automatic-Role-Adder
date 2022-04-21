@@ -18,7 +18,7 @@
 <hr>
 
 ## 📝 Contributors
-- [✯ Just#0001] (https://github.com/NotJust9999)
+- [NotJust#0001] (https://github.com/NotJust9999)
 
 ## How Does It Work
 
